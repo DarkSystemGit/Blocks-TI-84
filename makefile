@@ -2,8 +2,8 @@
 # Makefile Options
 # ----------------------------
 
-NAME = BLOCKS
-ICON = icon.png
+NAME = Minecraft
+ICON = logo.png
 DESCRIPTION = "TiCE Minecraft"
 COMPRESSED = NO
 ARCHIVED = NO
